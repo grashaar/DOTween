@@ -1,0 +1,18 @@
+{
+  "name": "com.demigiant.dotween",
+  "displayName": "DOTween",
+  "version": "0.0.2",
+  "unity": "2018.1",
+  "license": "MIT",
+  "description": "DOTween version 1.2.305",
+  "keywords": [
+    "tween",
+    "unity"
+  ],
+  "category": "Unity",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grashaar/DOTween.git"
+  },
+  "author": "Daniele Giardini <http://www.demigiant.com> (http://www.demigiant.com)"
+}
