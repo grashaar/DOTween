@@ -1,10 +1,10 @@
 {
   "name": "com.demigiant.dotween",
   "displayName": "DOTween",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "unity": "2018.1",
   "license": "MIT",
-  "description": "DOTween version 1.2.305",
+  "description": "DOTween version 1.2.320",
   "keywords": [
     "tween",
     "unity"
